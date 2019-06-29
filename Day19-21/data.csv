@@ -1,0 +1,31 @@
+#,Description,Environment,Priority,Owner,Created At
+1,Division by zero,production,critical,qa1,2/7/2016
+2,Null pointer exception,staging,high,qa1,3/7/2016
+3,Runtime error,production,high,qa1,4/7/2016
+4,Integrity error while saving data,production,critical,qa1,5/7/2016
+5,Application hangs,production,medium,qa1,6/7/2016
+6,Applications quits unexpectivly,local,critical,qa1,7/7/2016
+7,Unexpectivly application quits.,local,high,qa2,8/7/2016
+8,Application hangs on Windows 10,production,low,qa2,9/7/2016
+9,Missed alert message in save dialog,production,critical,qa2,10/7/2016
+10,Save dialog missed alert message new one,production,medium,qa2,11/7/2016
+11,Division by zero new one,production,critical,qa2,12/7/2016
+12,Null pointer exception new one,production,medium,qa2,1/7/2017
+13,Runtime error  new one,staging,high,qa2,2/7/2017
+14,Integrity error while saving data new one,production,critical,qa2,3/7/2017
+15,Application hangs new one,production,medium,qa2,4/7/2017
+16,Applications quits unexpectivly new one,staging,low,qa2,5/7/2017
+17,Unexpectivly application quits. new one,production,high,qa2,6/7/2017
+18,Application hangs on Windows 10 new one,production,high,qa2,7/7/2017
+19,Missed alert message in save dialog new one,production,medium,qa2,8/7/2017
+20,Save dialog missed alert message new one,production,critical,qa2,9/7/2017
+21,Division by zero new two,staging,critical,qa2,10/7/2017
+22,Null pointer exception new two,staging,low,qa2,11/7/2017
+23,Runtime error new two,staging,low,qa2,12/7/2017
+24,Integrity error while saving data new two,production,critical,qa2,1/7/2018
+25,Application hangs new two,production,medium,qa2,2/7/2018
+26,Applications quits unexpectivly new two,production,high,q3,3/7/2018
+27,Unexpectivly application quits. new two,staging,medium,q3,4/7/2018
+28,Application hangs on Windows 10 new two,staging,critical,q3,5/7/2018
+29,Missed alert message in save dialog new two,production,critical,q3,6/7/2018
+30,Save dialog missed alert message  new two,production,critical,q3,7/7/2018

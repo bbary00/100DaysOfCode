@@ -2,401 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90270a78-9460-4725-b471-c21ef5f56a92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day16-18/list_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100DaysOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysOfCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19-21/epam-training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/Pomodoro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/days/13-15-text-games/data/battle-table.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/days/13-15-text-games/data/sample_reader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/days/16-18-listcomprehensions-generators/list-comprehensions-generators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GitRepo/days/16-18-listcomprehensions-generators/list-comprehensions-generators.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/days/73-75-selenium/python-selenium.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GitRepo/days/73-75-selenium/python-selenium.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/requirements/bob-environment.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/requirements/bob-requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/100days-marketing-video.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/00-intro/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/01-datetimes/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/01-datetimes/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/01-datetimes/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/01-datetimes/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/01-datetimes/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/04-collections/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/07-data-structures/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/10-testing/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/100-day-one-hundred/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/101-conclusion/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/13-text-games/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/16-comprehensions/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/19-iterators/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/22-decorators/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/25-errors/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/28-regex/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/31-logging/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/34-refactoring/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/37-csv_data/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/40-json/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/43-search-api/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/46-beautifulsoup4/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/49-measuring-perf/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/52-feedparser/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/55-uplink/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/58-tweepy/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/61-github/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/64-email-smtplib/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/67-pyperclip/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/70-openpyxl/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/73-selenium/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/76-flask-app/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/79-sqlite3/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/82-dataviz/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/85-anvil/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/88-home-inventory-app/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/900-appendix-pylang/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/91-sqlalchemy/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/94-guis/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitRepo/transcripts/97-online-game-service/9.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -405,16 +12,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day16-18/list_comprehension.py">
+        <entry file="file://$PROJECT_DIR$/Day19-21/epam-training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="94" column="25" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day19-21/decreased_data.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day19-21/data.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -437,6 +65,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Day16-18/list_comprehension.py" />
+        <option value="$PROJECT_DIR$/Day19-21/epam-training.py" />
       </list>
     </option>
   </component>
@@ -461,7 +90,7 @@
             <path>
               <item name="100DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day16-18" type="462c0819:PsiDirectoryNode" />
+              <item name="Day19-21" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -488,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_comprehension">
+  <component name="RunManager" selected="Python.epam-training">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -531,6 +160,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="epam-training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day19-21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day19-21/epam-training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -556,9 +206,11 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.circle_square" />
       <item itemvalue="Python.list_comprehension" />
+      <item itemvalue="Python.epam-training" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.epam-training" />
         <item itemvalue="Python.list_comprehension" />
         <item itemvalue="Python.circle_square" />
       </list>
@@ -590,20 +242,20 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19806403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.35041323" />
-      <window_info anchor="bottom" id="Python Console" weight="0.41157025" />
-      <window_info anchor="bottom" id="Terminal" weight="0.30082646" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4198347" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36363637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.14876033" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.35041323" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4892562" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.41157025" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -630,6 +282,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -681,13 +347,56 @@
         <state relative-caret-position="-675" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-15/sample_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day16-18/list_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="-152">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-15/PRS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day19-21/data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day19-21/decreased_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day19-21/epam-training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="94" column="25" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
         </state>
       </provider>
     </entry>
