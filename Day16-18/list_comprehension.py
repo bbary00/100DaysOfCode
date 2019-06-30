@@ -1,5 +1,4 @@
 import random
-import sys
 import itertools
 
 
@@ -80,4 +79,4 @@ if __name__ == '__main__':
     print(list(slice_pairs))
     print(dedup_and_title_case_names(NAMES))
     print(sort_by_surname_desc(NAMES))
-    print( shortest_first_name(NAMES))
+    print(shortest_first_name(NAMES))
