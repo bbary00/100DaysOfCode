@@ -1,5 +1,5 @@
 import time
-
+from functools import wraps
 
 def timeit(func):
     """
@@ -74,7 +74,7 @@ Have fun and start to grok decorators!
 """
 
 
-from functools import wraps
+
 
 
 def make_html(element):
