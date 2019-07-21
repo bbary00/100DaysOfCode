@@ -2,3 +2,4 @@ venv
 GitRepo
 classes.py
 CSV_data
+credentials.txt
