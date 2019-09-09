@@ -3,7 +3,6 @@ from unittest.mock import patch
 import pytest
 import mock
 import random
-from redditimagescraper import RedditImageScraper
 
 @patch.object(random, 'randint')
 def test_get_random_number(m):
@@ -49,5 +48,3 @@ def test_what_year(valid_values):
 
     # side_effect, when given an iterable, iterates through
     # each time the patched function is called (in this case input())
-    with mock.patch('builtins.input', side_effect=invalid):
-        assert RedditImageScraper.game.check_number('start') == int(valid_values)
