@@ -1,4 +1,5 @@
 from api_worker import find_info_by_keywords
+import webbrowser
 import re
 
 
@@ -6,8 +7,8 @@ def print_info(podcast_object):
     print(f'Podcast title: {podcast_object.title}')
     print(f'Podcast category: {podcast_object.category}')
     print(f'Podcast id: {podcast_object.id}')
-    print(f'Podcast URL: {podcast_object.url}')
     print(f'Podcast description: {podcast_object.description}')
+    webbrowser.open('https://talkpython.fm' + podcast_object.url, new=2)
 
 
 def get_keywords():
